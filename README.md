@@ -25,3 +25,5 @@ Here is a screenshot from one of the output videos:
 * pandas
 * numpy 
 * opencv
+
+Computer Vision Project
